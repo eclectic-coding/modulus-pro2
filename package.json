@@ -18,7 +18,7 @@
 		"pretty-bytes": "^5.5.0",
 		"recursive-readdir": "^2.2.2",
 		"stylelint": "^13.9.0",
-		"stylelint-config-wordpress": "^13.1.0"
+		"stylelint-config-wordpress": "^17.0.0"
 	},
 	"scripts": {
 		"autoprefixer": "postcss style.css lib/**/*.css --use autoprefixer --replace --no-map --verbose",
