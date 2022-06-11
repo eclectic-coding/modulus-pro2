@@ -17,7 +17,7 @@
 		"postcss-cli": "^9.1.0",
 		"pretty-bytes": "^6.0.0",
 		"recursive-readdir": "^2.2.2",
-		"stylelint": "^14.9.0",
+		"stylelint": "^14.9.1",
 		"stylelint-config-wordpress": "^17.0.0"
 	},
 	"scripts": {
