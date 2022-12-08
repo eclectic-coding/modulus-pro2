@@ -9,7 +9,7 @@
 	"devDependencies": {
 		"archiver": "^5.3.1",
 		"autoprefixer": "^10.4.13",
-		"chalk": "^5.1.2",
+		"chalk": "^5.2.0",
 		"eslint": "^8.29.0",
 		"eslint-config-wordpress": "^2.0.0",
 		"node-wp-i18n": "^1.2.7",
